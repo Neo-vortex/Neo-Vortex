@@ -2,7 +2,6 @@
 #### I'm an Eager  Backend/Frontend developer from Iran
 I'm an Eager  Backend/Frontend developer from Iran.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C# / .NET / NativeAOT/ System Programming/ IOT / C++/ C / Fortran/ Blockchain
 
