@@ -13,7 +13,7 @@ Skills: C# / .NET / NativeAOT/ System Programming/ IOT / C++/ C / Fortran/ Block
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neo-vortex)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-vortex&hide=VisualBasic.NET,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-vortex&hide=VisualBasic.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
