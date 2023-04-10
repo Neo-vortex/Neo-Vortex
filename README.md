@@ -3,7 +3,7 @@
 I'm an Eager  Backend/Frontend developer from Iran.
 
 
-Skills: C# / .NET / NativeAOT/ System Programming/ IOT / C++/ C / Fortran/ Blockchain
+Skills: C# / .NET / NativeAOT/ IOT / C++/ Blockchain
 
 - 📫 How to reach me: neo.vortex@pm.me 
 - ⚡ Fun fact: The more you code, the more you like it! 
