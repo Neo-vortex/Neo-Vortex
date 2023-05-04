@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mohammad ( you can call me NEO!)
 #### I'm an Eager  Backend/Frontend developer from Iran
-I'm an Eager  Backend/Frontend developer from Iran.
+I'm an Eager  Backend/Frontend developer from Earth.
 
 
 Skills: C# / .NET / NativeAOT/ IOT / C++/ Blockchain
