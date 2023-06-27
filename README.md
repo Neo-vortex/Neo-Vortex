@@ -19,5 +19,4 @@ Skills: C# / .NET / NativeAOT/ IOT / C++/ Blockchain
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neo-vortex&theme=dark)  
-
-![Profile views](https://gpvc.arturio.dev/neo-vortex)  
+ 
