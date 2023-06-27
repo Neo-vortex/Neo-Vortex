@@ -12,8 +12,6 @@ Skills: C# / .NET / NativeAOT/ IOT / C++/ Blockchain
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neo-vortex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-vortex&theme=dark&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neo-vortex&show_icons=true&count_private=true&theme=dark)  
