@@ -1,8 +1,8 @@
-### Hi there 👋, My name is Mohammad ( you can call me NEO!)
-#### I'm an Eager  Backend/Frontend developer from Earth
+### Hi there 👋, My name is Mohammad ( you can call me neo!)
+#### I'm an Eager software engineer.
 
 
-Skills: C# / .NET / NativeAOT/ IOT / C++/ Blockchain
+Skills: C# / .NET / NativeAOT/ IoT / Solidity/ Blockchain
 
 - 📫 How to reach me: neo.vortex@pm.me 
 - ⚡ Fun fact: The more you code, the more you like it! 
