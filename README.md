@@ -2,7 +2,7 @@
 #### I'm an Eager software engineer.
 
 
-Skills: C#/ .NET/ Solidity/ Blockchain/ NativeAOT/ IoT 
+Skills: C#/ .NET/ Solidity/ NativeAOT/ IoT 
 
 - 📫 How to reach me: neo.vortex@pm.me 
 - ⚡ Fun fact: The more you code, the more you like it! 
