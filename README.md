@@ -10,7 +10,6 @@ Skills: C#/ .NET/ Solidity/ NativeAOT/ IoT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neo-vortex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nakhleh1375/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/neovortex)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neo-vortex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
