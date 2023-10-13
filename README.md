@@ -1,6 +1,3 @@
-### Hi there 👋, My name is Mohammad ( you can call me neo!)
-#### I'm an Eager software engineer.
-
 
 Skills: C#/ .NET/ Solidity/ NativeAOT/ IoT 
 
