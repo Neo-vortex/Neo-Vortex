@@ -14,3 +14,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neo-vortex&theme=dark)  
  
+
+<figure><embed src="https://wakatime.com/share/@018b197c-6530-4210-8c0f-5fa63f990766/2485a549-a7ab-4bb8-9cc0-6e6302078daf.svg"></embed></figure>
